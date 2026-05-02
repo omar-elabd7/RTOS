@@ -1,0 +1,16 @@
+# Build output
+Objects/
+Listings/
+
+# Keil session files (machine-specific)
+*.uvguix.*
+*.uvguix
+
+# Backup files
+*_original_backup.c
+*.bak
+*.orig
+
+# OS files
+.DS_Store
+Thumbs.db
